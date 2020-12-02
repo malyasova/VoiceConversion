@@ -5,7 +5,7 @@ To train:
 python train.py
 
 To convert voice:
-1)compute embeddings: python embedder/save_embeddings.py
-2)python convert_voice.py <source_wav> <target_wav> <output_path>
 
-Model currently works only for VCTK Corpus, with some changes can work for any voice
+1)compute embeddings: python embedder/save_embeddings.py
+
+2)python convert_voice.py <source_wav> <target_wav> <output_path>
