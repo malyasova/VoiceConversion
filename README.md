@@ -2,7 +2,7 @@
 This is a one-shot voice conversion model.
 
 To train:
-python train.py
+python src/train.py
 
 To convert voice:
 
